@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "package_url": "",
-  "sha256": "",
-  "notes": "Première version publique de Transcripteur.",
+  "version": "1.0.1",
+  "package_url": "https://github.com/bk27zw2vn4-sys/Transcripteur-Updates/releases/download/v1.0.1/Transcripteur_Update_1.0.1.zip",
+  "sha256": "4da024cad026dd471c5a767e50cfef0596aa898b995854adf18326265e648b28",
+  "notes": "Mise à jour de test vers Transcripteur 1.0.1.",
   "mandatory": false
 }
