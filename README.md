@@ -6,6 +6,12 @@ Il est particulièrement adapté aux **webinaires, formations, cours, réunions 
 
 <img width="1917" height="1017" alt="837e3b91-db4a-44ee-ad5b-f1e22ebcd070" src="https://github.com/user-attachments/assets/261f1964-15f8-4698-9f22-a29d7cf277d1" />
 
+## 📥 Télécharger
+
+### ➡️ [Télécharger Transcripteur 1.0.2](https://github.com/bk27zw2vn4-sys/Transcripteur-Updates/releases/latest)
+
+Compatible avec **Windows 10 et Windows 11**.
+
 ## ✨ Fonctionnalités
 
 - 🎙️ Enregistrement de l'audio du PC
