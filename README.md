@@ -4,6 +4,8 @@
 
 Il est particulièrement adapté aux **webinaires, formations, cours, réunions et contenus audio longs**.
 
+<img width="1917" height="1017" alt="837e3b91-db4a-44ee-ad5b-f1e22ebcd070" src="https://github.com/user-attachments/assets/261f1964-15f8-4698-9f22-a29d7cf277d1" />
+
 ## ✨ Fonctionnalités
 
 - 🎙️ Enregistrement de l'audio du PC
