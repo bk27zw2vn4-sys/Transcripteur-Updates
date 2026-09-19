@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "package_url": "https://github.com/bk27zw2vn4-sys/Transcripteur-Updates/releases/download/v1.0.1/Transcripteur_Update_1.0.1.zip",
-  "sha256": "155cbf5363fe15057d2e2bc0f7da811dc5e8ca9f12c30e8a3597c71b2d4ccfc5",
-  "notes": "Mise à jour de test vers Transcripteur 1.0.1.",
+  "version": "1.0.2",
+  "package_url": "https://github.com/bk27zw2vn4-sys/Transcripteur-Updates/releases/download/v1.0.2/Transcripteur_Update_1.0.2.zip",
+  "sha256": "07af5ee543d72ec48b44fe325859b02fa40a811af66410c8ba204780db35e2aa",
+  "notes": "Transcripteur 1.0.2 : ajout du résumé automatique et des points clés.",
   "mandatory": false
 }
